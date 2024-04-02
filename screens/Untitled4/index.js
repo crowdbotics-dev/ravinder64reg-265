@@ -38,14 +38,17 @@ const styles = StyleSheet.create({
     top: 179
   },
   cxSAngmf: {
-    width: 332,
+    width: 339,
     height: 116,
-    lineHeight: 14,
-    fontSize: 14,
+    lineHeight: 39,
+    fontSize: 15,
     borderRadius: 0,
     position: "absolute",
-    left: 10,
-    top: 380
+    left: 4,
+    top: 377,
+    fontWeight: "900",
+    letterSpacing: 34,
+    fontFamily: "Roboto"
   }
 });
 export default Untitled4;
